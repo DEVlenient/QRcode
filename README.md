@@ -12,7 +12,7 @@
 
 ## 範例演示
 
-<img src="pic/qrcode.gif" alt="示例圖片" width="600">
+<img src="pic/qrcode.gif" width="600">
 
 ## 使用方法
 
